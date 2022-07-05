@@ -1,0 +1,44 @@
+body{
+    background-color: gray;
+}
+
+h1{
+    color: black;
+    font-size: xxx-large;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+h3{
+    color: rgb(92, 65, 32);
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+.input-area{
+    text-align: center;
+    font-size: xx-large;
+}
+
+#inp-num{
+    font-size: xx-large;
+    width: 40vw;
+    height: auto;
+    margin-top: 10vh;
+}
+#sub-but{
+    font-size: x-large;
+    width: 8vw;
+    height: 5vh;
+}
+
+#message{
+    font-size: xxx-large;
+    text-align: center;
+}
+
+#messages{
+    text-align: center;
+    font-size: xx-large;
+}
